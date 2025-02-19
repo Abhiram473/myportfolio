@@ -1,6 +1,6 @@
 # Portfolio Website
 
-Welcome to my personal portfolio website! This project showcases my skills, projects, and experience in software development. Built using **Django** and **Tailwind CSS**, this portfolio serves as an interactive resume for potential employers and collaborators.
+Welcome to my portfolio website! This project showcases my skills, projects, and experience in software development. Built using **Django** and **Tailwind CSS**, this portfolio serves as an interactive resume for potential employers and collaborators.
 
 ## 🛠 Tech Stack
 - **Frontend**: HTML, CSS (Tailwind CSS)
