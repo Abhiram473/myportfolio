@@ -49,7 +49,7 @@ pip install django
 3. Open `http://127.0.0.1:8000/` in your browser.
 
 ## 📸 Preview
-![Portfolio Preview](https://your-image-url.com/preview.png) *(Replace with actual screenshot)*
+![Portfolio Preview]([https://your-image-url.com/preview.png](https://drive.google.com/file/d/1jhRhg1bifsn00-hcUu0BDkNI_IMlNe_u/view?usp=sharing))
 
 ## 📞 Contact
 - **Email**: [22215a6701@bvrit.ac.in](mailto:22215a6701@bvrit.ac.in)
