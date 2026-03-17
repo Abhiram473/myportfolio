@@ -3,7 +3,7 @@
 A personal portfolio website built with React and Vite, showcasing my projects, skills, and certifications.
 
 ## 🔗 Live Demo
-[abhiram473.github.io/myportfolio](https://abhiram473.github.io/myportfolio)
+[abhiram473.github.io/myportfolio](https://Abhiram473.github.io/myportfolio)
 
 ## 🛠️ Built With
 - React
