@@ -13,7 +13,7 @@ export default function Social() {
           <i className="fas fa-envelope"></i>
         </a>
       </div>
-      <p className="copyright">© 2025 Abhiram. All Rights Reserved.</p>
+      <p className="copyright">2025 Abhiram. All Rights Reserved.</p>
     </section>
   );
 }

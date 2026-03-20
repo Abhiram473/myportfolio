@@ -4,7 +4,7 @@ export default function Home() {
       <div className="profile-container">
         <div className="profile-photo">
           <img
-            src="/profile.jpg"
+            src={import.meta.env.BASE_URL + "profile.jpg"}
             alt="Abhiram Kumar"
             style={{
               width: '100%', height: '100%',
