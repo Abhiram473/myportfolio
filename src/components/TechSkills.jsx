@@ -12,8 +12,7 @@ const skills = [
     items: [
       ['fas fa-database','SQL'],
       ['fas fa-file-excel','Excel'],
-      ['fab fa-python','Python (Pandas, NumPy)'],
-      ['fas fa-chart-pie','Tableau'],
+      ['fab fa-python','Pandas, NumPy'],
       ['fas fa-chart-line','Power BI']
     ] 
   },
